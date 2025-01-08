@@ -1,0 +1,4 @@
+AWS Service	Functionality	Use Case	Key Features
+KMS	Encryption and decryption of data	Protecting data	Secure and scalable key management, integration with AWS services, customer-managed and AWS-managed keys, easy key rotation
+Parameter Store	Storing and managing configuration data	Configuration data	Centralized configuration management, versioning and history tracking, integration with AWS services, cost-effective
+Secrets Manager	Storing and managing secrets	Secrets management	Secure storage and management of secrets, automatic secret rotation, integration with AWS services, auditing and compliance
